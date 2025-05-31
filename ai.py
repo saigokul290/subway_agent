@@ -69,6 +69,10 @@ loss = nn.MSELoss() #Using Mean Squared Error loss
 for epoch in range(1, nb_epochs + 1):
     print("Playing game for Epoch : %s" %str(epoch))
     print("Printing actions")
+    
+    # CRITICAL FIX: Reset environment properly at start of each epoch
+    print("Resetting environment for new epoch...")
+    
     memory.run_steps(128) #Calling n_steps 128 times and filling the buffer
     print("Entering Epoch :")
     for batch in memory.sample_batch(64): #Randomly choosing 64 samples
