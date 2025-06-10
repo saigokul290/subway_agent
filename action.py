@@ -1,119 +1,64 @@
-# Hybrid control: Mouse for game setup, Keyboard for gameplay
+# action.py
+# ──────────────────────────────────────────────────────────────────────────────
+# Now all movement in‐game is done by arrow‐key presses only.
+# We have removed any click or drag inside perform().
+#
+#   t == 0 → do nothing       (sleep 0.30 s)
+#   t == 1 → JUMP  (press “up”)
+#   t == 2 → ROLL  (press “down”)
+#   t == 3 → LEFT  (press “left”)
+#   t == 4 → RIGHT (press “right”)
+#
+# No mouse movement or clicks occur inside perform().
+# ──────────────────────────────────────────────────────────────────────────────
 
+import numpy as np
 import pyautogui
 import time
-import numpy as np
 
-class GameSetup():
-    """Handles game initialization using mouse controls"""
-    
-    def __init__(self):
-        pyautogui.PAUSE = 0.01
-        
-    def find_and_click_button(self, image_path, confidence=0.7):
-        """Find and click a button using image recognition"""
-        try:
-            button_location = pyautogui.locateOnScreen(image_path, confidence=confidence)
-            if button_location:
-                center = pyautogui.center(button_location)
-                print(f"Found button at: {center}")
-                pyautogui.click(center)
-                return True
-            else:
-                print(f"Button not found: {image_path}")
-                return False
-        except Exception as e:
-            print(f"Error finding button: {e}")
-            return False
-    
-    def setup_game(self, start_button_path, play_button_path=None):
-        """Setup the game by clicking start and play buttons"""
-        print("Setting up game...")
-        
-        # Click start button
-        if self.find_and_click_button(start_button_path):
-            time.sleep(1)  # Wait for game to load
-            
-            # Click play button if provided
-            if play_button_path:
-                self.find_and_click_button(play_button_path)
-                time.sleep(0.5)
-            
-            print("Game setup complete!")
-            return True
-        return False
+class action:
+    """
+    Encapsulates a single in‐game move.  Only arrow keys (no clicks/swipes).
+    """
 
-class GameController():
-    """Handles gameplay using keyboard controls only"""
-    
-    def __init__(self):
-        # No coordinates needed for keyboard control
-        pyautogui.PAUSE = 0.01
-        pyautogui.FAILSAFE = False
-        
-    def perform(self, action_code):
-        """Perform game action using keyboard only"""
-        # Convert numpy array or any other type to int
-        if isinstance(action_code, np.ndarray):
-            action_code = int(action_code.item())
+    def __init__(self, left, top, width, height):
+        # We still store these original values in case env.reset() wants them,
+        # but perform() itself will no longer click at all.
+        self.left   = left
+        self.top    = top
+        self.width  = width
+        self.height = height
 
-        print(f"Performing keyboard action: {action_code}")
-        
-        if action_code == 0:  # Do nothing
-            time.sleep(0.1)
+    def perform(self, t):
+        """
+        Execute exactly one of {0..4}.  No mouse movement—purely keyboard.
+        If t is a NumPy array, convert to int.
+        """
+
+        if isinstance(t, np.ndarray):
+            t = int(t.item())
+
+        # 0 → do nothing for 0.30s
+        if t == 0:
+            time.sleep(0.30)
             return
-            
-        # Define keyboard actions using arrow keys
-        keyboard_actions = {
-            1: 'up',        # Jump (up arrow)
-            2: 'down',      # Roll/Duck (down arrow)
-            3: 'left',      # Move Left (left arrow)
-            4: 'right',     # Move Right (right arrow)
-        }
-        
-        if action_code in keyboard_actions:
-            key = keyboard_actions[action_code]
-            pyautogui.press(key)
-            time.sleep(0.05)  # Short delay to allow game to respond
+
+        # 1 → JUMP   (Up arrow)
+        # 2 → ROLL   (Down arrow)
+        # 3 → LEFT   (Left arrow)
+        # 4 → RIGHT  (Right arrow)
+        if t == 1:
+            pyautogui.press('up')
+        elif t == 2:
+            pyautogui.press('down')
+        elif t == 3:
+            pyautogui.press('left')
+        elif t == 4:
+            pyautogui.press('right')
         else:
-            print(f"Unknown action: {action_code}")
+            # If somehow out‐of‐range, just wait
+            time.sleep(0.30)
+            return
 
-# Legacy compatibility class for existing code
-class action():
-    """Compatibility wrapper that ignores coordinates and uses keyboard"""
-    
-    def __init__(self, left=0, top=0, width=0, height=0):
-        # Ignore all coordinate parameters
-        print("Action class initialized - using keyboard controls (coordinates ignored)")
-        self.controller = GameController()
-        
-    def perform(self, action_code):
-        """Delegate to keyboard controller"""
-        self.controller.perform(action_code)
-
-# Example usage showing the separation:
-if __name__ == "__main__":
-    # Step 1: Game Setup (Mouse control)
-    setup = GameSetup()
-    game_ready = setup.setup_game(
-        start_button_path="images/start_button.png",
-        play_button_path="images/play_button.png"
-    )
-    
-    if game_ready:
-        # Step 2: Gameplay (Keyboard control)
-        controller = GameController()
-        
-        print("Starting gameplay with keyboard controls...")
-        # Test gameplay actions
-        controller.perform(1)  # Jump
-        time.sleep(0.5)
-        controller.perform(3)  # Left
-        time.sleep(0.5)
-        controller.perform(4)  # Right
-        time.sleep(0.5)
-        controller.perform(2)  # Duck
-        
-        print("Gameplay test complete!")
-    else:
-        print("Game setup failed!")
+        # Allow a brief pause so the game processes the keypress
+        time.sleep(0.20)

@@ -1,0 +1,645 @@
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 37.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 164 Average Reward: 35.90       
+[ai]    Moving‐Average (last 500 eps): 41.79
+[ai] Checkpoint saved
+WARNING:n_step:Episode 726 ended: steps=20, total_reward=35.50
+[Debug] Episode 726 raw_action counts: [0, 1, 1, 0, 19]
+WARNING:n_step:Episode 727 ended: steps=20, total_reward=35.50
+[Debug] Episode 727 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 728 ended: steps=20, total_reward=35.50
+[Debug] Episode 728 raw_action counts: [0, 1, 0, 0, 20]
+WARNING:n_step:Episode 729 ended: steps=20, total_reward=35.50
+[Debug] Episode 729 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 730 ended: steps=20, total_reward=35.50
+[Debug] Episode 730 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 165: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 165 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 41.77
+[ai] Checkpoint saved
+WARNING:n_step:Episode 731 ended: steps=20, total_reward=35.50
+[Debug] Episode 731 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 732 ended: steps=20, total_reward=35.50
+[Debug] Episode 732 raw_action counts: [0, 1, 0, 1, 19]
+WARNING:n_step:Episode 733 ended: steps=20, total_reward=35.50
+[Debug] Episode 733 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 734 ended: steps=20, total_reward=35.50
+[Debug] Episode 734 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 735 ended: steps=20, total_reward=35.50
+[Debug] Episode 735 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 166: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 166 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 41.70
+[ai] Checkpoint saved
+WARNING:n_step:Episode 736 ended: steps=20, total_reward=35.50
+[Debug] Episode 736 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 737 ended: steps=20, total_reward=35.50
+[Debug] Episode 737 raw_action counts: [0, 0, 1, 1, 19]
+WARNING:n_step:Episode 738 ended: steps=20, total_reward=35.50
+[Debug] Episode 738 raw_action counts: [0, 1, 0, 1, 19]
+WARNING:n_step:Episode 739 ended: steps=20, total_reward=35.50
+[Debug] Episode 739 raw_action counts: [1, 0, 1, 0, 19]
+WARNING:n_step:Episode 740 ended: steps=20, total_reward=35.50
+[Debug] Episode 740 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 167: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 167 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 41.51
+[ai] Checkpoint saved
+WARNING:n_step:Episode 741 ended: steps=20, total_reward=35.50
+[Debug] Episode 741 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 742 ended: steps=20, total_reward=35.50
+[Debug] Episode 742 raw_action counts: [0, 1, 0, 0, 20]
+WARNING:n_step:Episode 743 ended: steps=19, total_reward=33.50
+[Debug] Episode 743 raw_action counts: [0, 0, 0, 0, 20]
+WARNING:n_step:Episode 744 ended: steps=20, total_reward=35.50
+[Debug] Episode 744 raw_action counts: [0, 0, 0, 1, 20]
+WARNING:n_step:Episode 745 ended: steps=20, total_reward=35.50
+[Debug] Episode 745 raw_action counts: [0, 0, 1, 1, 19]
+[ai] Epoch 168: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 33.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 168 Average Reward: 35.10       
+[ai]    Moving‐Average (last 500 eps): 41.50
+[ai] Checkpoint saved
+WARNING:n_step:Episode 746 ended: steps=20, total_reward=35.50
+[Debug] Episode 746 raw_action counts: [0, 0, 0, 1, 20]
+WARNING:n_step:Episode 747 ended: steps=20, total_reward=35.50
+[Debug] Episode 747 raw_action counts: [0, 0, 1, 0, 20]
+WARNING:n_step:Episode 748 ended: steps=20, total_reward=35.50
+[Debug] Episode 748 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 749 ended: steps=21, total_reward=37.50
+[Debug] Episode 749 raw_action counts: [0, 0, 0, 0, 22]
+WARNING:n_step:Episode 750 ended: steps=20, total_reward=35.50
+[Debug] Episode 750 raw_action counts: [2, 0, 1, 0, 18]
+[ai] Epoch 169: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 37.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 169 Average Reward: 35.90       
+[ai]    Moving‐Average (last 500 eps): 41.40
+[ai] Checkpoint saved
+WARNING:n_step:Episode 751 ended: steps=20, total_reward=35.50
+[Debug] Episode 751 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 752 ended: steps=20, total_reward=35.50
+[Debug] Episode 752 raw_action counts: [0, 0, 1, 1, 19]
+WARNING:n_step:Episode 753 ended: steps=20, total_reward=35.50
+[Debug] Episode 753 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 754 ended: steps=20, total_reward=35.50
+[Debug] Episode 754 raw_action counts: [0, 0, 1, 0, 20]
+WARNING:n_step:Episode 755 ended: steps=20, total_reward=35.50
+[Debug] Episode 755 raw_action counts: [0, 0, 0, 1, 20]
+[ai] Epoch 170: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 170 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 41.28
+[ai] Checkpoint saved
+WARNING:n_step:Episode 756 ended: steps=20, total_reward=35.50
+[Debug] Episode 756 raw_action counts: [0, 0, 0, 1, 20]
+WARNING:n_step:Episode 757 ended: steps=20, total_reward=35.50
+[Debug] Episode 757 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 758 ended: steps=19, total_reward=33.50
+[Debug] Episode 758 raw_action counts: [2, 0, 1, 0, 17]
+WARNING:n_step:Episode 759 ended: steps=20, total_reward=35.50
+[Debug] Episode 759 raw_action counts: [0, 1, 0, 1, 19]
+WARNING:n_step:Episode 760 ended: steps=20, total_reward=35.50
+[Debug] Episode 760 raw_action counts: [1, 0, 0, 0, 20]
+[ai] Epoch 171: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 33.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 171 Average Reward: 35.10       
+[ai]    Moving‐Average (last 500 eps): 41.29
+[ai] Checkpoint saved
+WARNING:n_step:Episode 761 ended: steps=20, total_reward=35.50
+[Debug] Episode 761 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 762 ended: steps=20, total_reward=35.50
+[Debug] Episode 762 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 763 ended: steps=20, total_reward=35.50
+[Debug] Episode 763 raw_action counts: [0, 1, 0, 1, 19]
+WARNING:n_step:Episode 764 ended: steps=21, total_reward=37.50
+[Debug] Episode 764 raw_action counts: [0, 0, 1, 0, 21]
+WARNING:n_step:Episode 765 ended: steps=20, total_reward=35.50
+[Debug] Episode 765 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 172: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 37.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 172 Average Reward: 35.90       
+[ai]    Moving‐Average (last 500 eps): 41.24
+[ai] Checkpoint saved
+WARNING:n_step:Episode 766 ended: steps=19, total_reward=33.50
+[Debug] Episode 766 raw_action counts: [0, 0, 1, 0, 19]
+WARNING:n_step:Episode 767 ended: steps=20, total_reward=35.50
+[Debug] Episode 767 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 768 ended: steps=20, total_reward=35.50
+[Debug] Episode 768 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 769 ended: steps=20, total_reward=35.50
+[Debug] Episode 769 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 770 ended: steps=20, total_reward=35.50
+[Debug] Episode 770 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 173: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 33.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 173 Average Reward: 35.10       
+[ai]    Moving‐Average (last 500 eps): 41.16
+[ai] Checkpoint saved
+WARNING:n_step:Episode 771 ended: steps=20, total_reward=35.50
+[Debug] Episode 771 raw_action counts: [1, 1, 0, 0, 19]
+WARNING:n_step:Episode 772 ended: steps=20, total_reward=35.50
+[Debug] Episode 772 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 773 ended: steps=20, total_reward=35.50
+[Debug] Episode 773 raw_action counts: [2, 0, 0, 0, 19]
+WARNING:n_step:Episode 774 ended: steps=20, total_reward=35.50
+[Debug] Episode 774 raw_action counts: [0, 1, 0, 0, 20]
+WARNING:n_step:Episode 775 ended: steps=20, total_reward=35.50
+[Debug] Episode 775 raw_action counts: [0, 2, 0, 0, 19]
+[ai] Epoch 174: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 174 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 41.12
+[ai] Checkpoint saved
+WARNING:n_step:Episode 776 ended: steps=20, total_reward=35.50
+[Debug] Episode 776 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 777 ended: steps=20, total_reward=35.50
+[Debug] Episode 777 raw_action counts: [0, 0, 1, 0, 20]
+WARNING:n_step:Episode 778 ended: steps=20, total_reward=35.50
+[Debug] Episode 778 raw_action counts: [0, 0, 1, 0, 20]
+WARNING:n_step:Episode 779 ended: steps=20, total_reward=35.50
+[Debug] Episode 779 raw_action counts: [0, 1, 0, 0, 20]
+WARNING:n_step:Episode 780 ended: steps=20, total_reward=35.50
+[Debug] Episode 780 raw_action counts: [1, 0, 1, 0, 19]
+[ai] Epoch 175: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 175 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 41.00
+[ai] Checkpoint saved
+WARNING:n_step:Episode 781 ended: steps=20, total_reward=35.50
+[Debug] Episode 781 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 782 ended: steps=20, total_reward=35.50
+[Debug] Episode 782 raw_action counts: [0, 0, 1, 0, 20]
+WARNING:n_step:Episode 783 ended: steps=20, total_reward=35.50
+[Debug] Episode 783 raw_action counts: [0, 0, 0, 1, 20]
+WARNING:n_step:Episode 784 ended: steps=20, total_reward=35.50
+[Debug] Episode 784 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 785 ended: steps=20, total_reward=35.50
+[Debug] Episode 785 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 176: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 176 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 40.92
+[ai] Checkpoint saved
+WARNING:n_step:Episode 786 ended: steps=20, total_reward=35.50
+[Debug] Episode 786 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 787 ended: steps=20, total_reward=35.50
+[Debug] Episode 787 raw_action counts: [0, 1, 0, 0, 20]
+WARNING:n_step:Episode 788 ended: steps=20, total_reward=35.50
+[Debug] Episode 788 raw_action counts: [0, 1, 1, 0, 19]
+WARNING:n_step:Episode 789 ended: steps=20, total_reward=35.50
+[Debug] Episode 789 raw_action counts: [0, 0, 0, 0, 21]
+WARNING:n_step:Episode 790 ended: steps=20, total_reward=35.50
+[Debug] Episode 790 raw_action counts: [0, 0, 1, 0, 20]
+[ai] Epoch 177: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 35.50
+[ai]   Episode 4 Reward: 35.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 177 Average Reward: 35.50       
+[ai]    Moving‐Average (last 500 eps): 40.72
+[ai] Checkpoint saved
+WARNING:n_step:Episode 791 ended: steps=20, total_reward=35.50
+[Debug] Episode 791 raw_action counts: [0, 0, 0, 1, 20]
+WARNING:n_step:Episode 792 ended: steps=20, total_reward=35.50
+[Debug] Episode 792 raw_action counts: [0, 0, 1, 1, 19]
+WARNING:n_step:Episode 793 ended: steps=19, total_reward=33.50
+[Debug] Episode 793 raw_action counts: [0, 0, 0, 1, 19]
+WARNING:n_step:Episode 794 ended: steps=22, total_reward=39.50
+[Debug] Episode 794 raw_action counts: [0, 1, 1, 0, 21]
+WARNING:n_step:Episode 795 ended: steps=20, total_reward=35.50
+[Debug] Episode 795 raw_action counts: [0, 0, 0, 0, 21]
+[ai] Epoch 178: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 35.50
+[ai]   Episode 2 Reward: 35.50
+[ai]   Episode 3 Reward: 33.50
+[ai]   Episode 4 Reward: 39.50
+[ai]   Episode 5 Reward: 35.50
+[ai] Epoch 178 Average Reward: 35.90       
+[ai]    Moving‐Average (last 500 eps): 40.59
+[ai] Checkpoint saved
+WARNING:n_step:Episode 796 ended: steps=29, total_reward=53.50
+[Debug] Episode 796 raw_action counts: [30, 0, 0, 0, 0]
+WARNING:n_step:Episode 797 ended: steps=27, total_reward=49.50
+[Debug] Episode 797 raw_action counts: [27, 0, 0, 0, 1]
+WARNING:n_step:Episode 798 ended: steps=35, total_reward=65.50
+[Debug] Episode 798 raw_action counts: [36, 0, 0, 0, 0]
+[ai] Epoch 179: 3 episodes ended this epoch
+[ai]   Episode 1 Reward: 53.50
+[ai]   Episode 2 Reward: 49.50
+[ai]   Episode 3 Reward: 65.50
+[ai] Epoch 179 Average Reward: 56.17       
+[ai]    Moving‐Average (last 500 eps): 40.62
+[ai] Checkpoint saved
+WARNING:n_step:Episode 799 ended: steps=22, total_reward=39.50
+[Debug] Episode 799 raw_action counts: [20, 0, 0, 1, 2]
+WARNING:n_step:Episode 800 ended: steps=24, total_reward=43.50
+[Debug] Episode 800 raw_action counts: [25, 0, 0, 0, 0]
+WARNING:n_step:Episode 801 ended: steps=25, total_reward=45.50
+[Debug] Episode 801 raw_action counts: [25, 0, 0, 0, 1]
+WARNING:n_step:Episode 802 ended: steps=29, total_reward=53.50
+[Debug] Episode 802 raw_action counts: [29, 1, 0, 0, 0]
+[ai] Epoch 180: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 39.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 45.50
+[ai]   Episode 4 Reward: 53.50
+[ai] Epoch 180 Average Reward: 45.50       
+[ai]    Moving‐Average (last 500 eps): 40.64
+[ai] Checkpoint saved
+WARNING:n_step:Episode 803 ended: steps=28, total_reward=51.50
+[Debug] Episode 803 raw_action counts: [27, 1, 0, 1, 0]
+WARNING:n_step:Episode 804 ended: steps=24, total_reward=43.50
+[Debug] Episode 804 raw_action counts: [24, 0, 1, 0, 0]
+WARNING:n_step:Episode 805 ended: steps=30, total_reward=55.50
+[Debug] Episode 805 raw_action counts: [29, 0, 0, 1, 1]
+WARNING:n_step:Episode 806 ended: steps=35, total_reward=65.50
+[Debug] Episode 806 raw_action counts: [35, 0, 0, 1, 0]
+[ai] Epoch 181: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 51.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 55.50
+[ai]   Episode 4 Reward: 65.50
+[ai] Epoch 181 Average Reward: 54.00       
+[ai]    Moving‐Average (last 500 eps): 40.68
+[ai] Checkpoint saved
+WARNING:n_step:Episode 807 ended: steps=7, total_reward=9.50
+[Debug] Episode 807 raw_action counts: [8, 0, 0, 0, 0]
+WARNING:n_step:Episode 808 ended: steps=24, total_reward=43.50
+[Debug] Episode 808 raw_action counts: [25, 0, 0, 0, 0]
+WARNING:n_step:Episode 809 ended: steps=25, total_reward=45.50
+[Debug] Episode 809 raw_action counts: [26, 0, 0, 0, 0]
+WARNING:n_step:Episode 810 ended: steps=29, total_reward=53.50
+[Debug] Episode 810 raw_action counts: [30, 0, 0, 0, 0]
+WARNING:n_step:Episode 811 ended: steps=24, total_reward=43.50
+[Debug] Episode 811 raw_action counts: [24, 0, 1, 0, 0]
+[ai] Epoch 182: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: 9.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 45.50
+[ai]   Episode 4 Reward: 53.50
+[ai]   Episode 5 Reward: 43.50
+[ai] Epoch 182 Average Reward: 39.10       
+[ai]    Moving‐Average (last 500 eps): 40.65
+[ai] Checkpoint saved
+WARNING:n_step:Episode 812 ended: steps=1, total_reward=-2.50
+[Debug] Episode 812 raw_action counts: [2, 0, 0, 0, 0]
+WARNING:n_step:Episode 813 ended: steps=25, total_reward=45.50
+[Debug] Episode 813 raw_action counts: [26, 0, 0, 0, 0]
+WARNING:n_step:Episode 814 ended: steps=30, total_reward=55.50
+[Debug] Episode 814 raw_action counts: [30, 0, 0, 1, 0]
+WARNING:n_step:Episode 815 ended: steps=24, total_reward=43.50
+[Debug] Episode 815 raw_action counts: [25, 0, 0, 0, 0]
+WARNING:n_step:Episode 816 ended: steps=30, total_reward=55.50
+[Debug] Episode 816 raw_action counts: [31, 0, 0, 0, 0]
+[ai] Epoch 183: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: -2.50
+[ai]   Episode 2 Reward: 45.50
+[ai]   Episode 3 Reward: 55.50
+[ai]   Episode 4 Reward: 43.50
+[ai]   Episode 5 Reward: 55.50
+[ai] Epoch 183 Average Reward: 39.50       
+[ai]    Moving‐Average (last 500 eps): 40.60
+[ai] Checkpoint saved
+WARNING:n_step:Episode 817 ended: steps=1, total_reward=-2.50
+[Debug] Episode 817 raw_action counts: [2, 0, 0, 0, 0]
+WARNING:n_step:Episode 818 ended: steps=24, total_reward=43.50
+[Debug] Episode 818 raw_action counts: [24, 1, 0, 0, 0]
+WARNING:n_step:Episode 819 ended: steps=26, total_reward=47.50
+[Debug] Episode 819 raw_action counts: [27, 0, 0, 0, 0]
+WARNING:n_step:Episode 820 ended: steps=23, total_reward=41.50
+[Debug] Episode 820 raw_action counts: [23, 0, 0, 1, 0]
+WARNING:n_step:Episode 821 ended: steps=25, total_reward=45.50
+[Debug] Episode 821 raw_action counts: [26, 0, 0, 0, 0]
+[ai] Epoch 184: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: -2.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 47.50
+[ai]   Episode 4 Reward: 41.50
+[ai]   Episode 5 Reward: 45.50
+[ai] Epoch 184 Average Reward: 35.10       
+[ai]    Moving‐Average (last 500 eps): 40.42
+[ai] Checkpoint saved
+WARNING:n_step:Episode 822 ended: steps=23, total_reward=41.50
+[Debug] Episode 822 raw_action counts: [24, 0, 0, 0, 0]
+WARNING:n_step:Episode 823 ended: steps=24, total_reward=43.50
+[Debug] Episode 823 raw_action counts: [22, 0, 1, 2, 0]
+WARNING:n_step:Episode 824 ended: steps=22, total_reward=39.50
+[Debug] Episode 824 raw_action counts: [22, 0, 0, 1, 0]
+WARNING:n_step:Episode 825 ended: steps=26, total_reward=47.50
+[Debug] Episode 825 raw_action counts: [27, 0, 0, 0, 0]
+[ai] Epoch 185: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 41.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 39.50
+[ai]   Episode 4 Reward: 47.50
+[ai] Epoch 185 Average Reward: 43.00       
+[ai]    Moving‐Average (last 500 eps): 40.43
+[ai] Checkpoint saved
+WARNING:n_step:Episode 826 ended: steps=25, total_reward=45.50
+[Debug] Episode 826 raw_action counts: [24, 0, 1, 1, 0]
+WARNING:n_step:Episode 827 ended: steps=24, total_reward=43.50
+[Debug] Episode 827 raw_action counts: [24, 0, 0, 1, 0]
+WARNING:n_step:Episode 828 ended: steps=24, total_reward=43.50
+[Debug] Episode 828 raw_action counts: [24, 0, 0, 0, 1]
+WARNING:n_step:Episode 829 ended: steps=26, total_reward=47.50
+[Debug] Episode 829 raw_action counts: [26, 1, 0, 0, 0]
+[ai] Epoch 186: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 45.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 43.50
+[ai]   Episode 4 Reward: 47.50
+[ai] Epoch 186 Average Reward: 45.00       
+[ai]    Moving‐Average (last 500 eps): 40.39
+[ai] Checkpoint saved
+WARNING:n_step:Episode 830 ended: steps=1, total_reward=-2.50
+[Debug] Episode 830 raw_action counts: [2, 0, 0, 0, 0]
+WARNING:n_step:Episode 831 ended: steps=25, total_reward=45.50
+[Debug] Episode 831 raw_action counts: [26, 0, 0, 0, 0]
+WARNING:n_step:Episode 832 ended: steps=24, total_reward=43.50
+[Debug] Episode 832 raw_action counts: [24, 0, 0, 0, 1]
+WARNING:n_step:Episode 833 ended: steps=29, total_reward=53.50
+[Debug] Episode 833 raw_action counts: [29, 1, 0, 0, 0]
+WARNING:n_step:Episode 834 ended: steps=25, total_reward=45.50
+[Debug] Episode 834 raw_action counts: [26, 0, 0, 0, 0]
+[ai] Epoch 187: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: -2.50
+[ai]   Episode 2 Reward: 45.50
+[ai]   Episode 3 Reward: 43.50
+[ai]   Episode 4 Reward: 53.50
+[ai]   Episode 5 Reward: 45.50
+[ai] Epoch 187 Average Reward: 37.10       
+[ai]    Moving‐Average (last 500 eps): 40.31
+[ai] Checkpoint saved
+WARNING:n_step:Episode 835 ended: steps=28, total_reward=51.50
+[Debug] Episode 835 raw_action counts: [13, 14, 1, 0, 1]
+WARNING:n_step:Episode 836 ended: steps=24, total_reward=43.50
+[Debug] Episode 836 raw_action counts: [22, 2, 0, 1, 0]
+WARNING:n_step:Episode 837 ended: steps=25, total_reward=45.50
+[Debug] Episode 837 raw_action counts: [10, 16, 0, 0, 0]
+WARNING:n_step:Episode 838 ended: steps=23, total_reward=41.50
+[Debug] Episode 838 raw_action counts: [22, 2, 0, 0, 0]
+[ai] Epoch 188: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 51.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 45.50
+[ai]   Episode 4 Reward: 41.50
+[ai] Epoch 188 Average Reward: 45.50       
+[ai]    Moving‐Average (last 500 eps): 40.29
+[ai] Checkpoint saved
+WARNING:n_step:Episode 839 ended: steps=1, total_reward=-2.50
+[Debug] Episode 839 raw_action counts: [0, 2, 0, 0, 0]
+WARNING:n_step:Episode 840 ended: steps=24, total_reward=43.50
+[Debug] Episode 840 raw_action counts: [0, 24, 1, 0, 0]
+WARNING:n_step:Episode 841 ended: steps=36, total_reward=67.50
+[Debug] Episode 841 raw_action counts: [1, 34, 1, 0, 1]
+WARNING:n_step:Episode 842 ended: steps=29, total_reward=53.50
+[Debug] Episode 842 raw_action counts: [0, 30, 0, 0, 0]
+WARNING:n_step:Episode 843 ended: steps=26, total_reward=47.50
+[Debug] Episode 843 raw_action counts: [1, 26, 0, 0, 0]
+[ai] Epoch 189: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: -2.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 67.50
+[ai]   Episode 4 Reward: 53.50
+[ai]   Episode 5 Reward: 47.50
+[ai] Epoch 189 Average Reward: 41.90       
+[ai]    Moving‐Average (last 500 eps): 40.26
+[ai] Checkpoint saved
+WARNING:n_step:Episode 844 ended: steps=9, total_reward=13.50
+[Debug] Episode 844 raw_action counts: [1, 9, 0, 0, 0]
+WARNING:n_step:Episode 845 ended: steps=30, total_reward=55.50
+[Debug] Episode 845 raw_action counts: [0, 29, 1, 1, 0]
+WARNING:n_step:Episode 846 ended: steps=26, total_reward=47.50
+[Debug] Episode 846 raw_action counts: [0, 26, 0, 0, 1]
+WARNING:n_step:Episode 847 ended: steps=27, total_reward=49.50
+[Debug] Episode 847 raw_action counts: [0, 28, 0, 0, 0]
+[ai] Epoch 190: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 13.50
+[ai]   Episode 2 Reward: 55.50
+[ai]   Episode 3 Reward: 47.50
+[ai]   Episode 4 Reward: 49.50
+[ai] Epoch 190 Average Reward: 41.50       
+[ai]    Moving‐Average (last 500 eps): 40.22
+[ai] Checkpoint saved
+WARNING:n_step:Episode 848 ended: steps=28, total_reward=51.50
+[Debug] Episode 848 raw_action counts: [0, 28, 1, 0, 0]
+WARNING:n_step:Episode 849 ended: steps=26, total_reward=47.50
+[Debug] Episode 849 raw_action counts: [0, 27, 0, 0, 0]
+WARNING:n_step:Episode 850 ended: steps=30, total_reward=55.50
+[Debug] Episode 850 raw_action counts: [0, 29, 2, 0, 0]
+WARNING:n_step:Episode 851 ended: steps=25, total_reward=45.50
+[Debug] Episode 851 raw_action counts: [0, 26, 0, 0, 0]
+[ai] Epoch 191: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 51.50
+[ai]   Episode 2 Reward: 47.50
+[ai]   Episode 3 Reward: 55.50
+[ai]   Episode 4 Reward: 45.50
+[ai] Epoch 191 Average Reward: 50.00       
+[ai]    Moving‐Average (last 500 eps): 40.14
+[ai] Checkpoint saved
+WARNING:n_step:Episode 852 ended: steps=3, total_reward=1.50
+[Debug] Episode 852 raw_action counts: [0, 4, 0, 0, 0]
+WARNING:n_step:Episode 853 ended: steps=28, total_reward=51.50
+[Debug] Episode 853 raw_action counts: [0, 29, 0, 0, 0]
+WARNING:n_step:Episode 854 ended: steps=26, total_reward=47.50
+[Debug] Episode 854 raw_action counts: [0, 27, 0, 0, 0]
+WARNING:n_step:Episode 855 ended: steps=29, total_reward=53.50
+[Debug] Episode 855 raw_action counts: [0, 30, 0, 0, 0]
+[ai] Epoch 192: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 1.50
+[ai]   Episode 2 Reward: 51.50
+[ai]   Episode 3 Reward: 47.50
+[ai]   Episode 4 Reward: 53.50
+[ai] Epoch 192 Average Reward: 38.50       
+[ai]    Moving‐Average (last 500 eps): 40.18
+[ai] Checkpoint saved
+WARNING:n_step:Episode 856 ended: steps=35, total_reward=65.50
+[Debug] Episode 856 raw_action counts: [0, 35, 0, 0, 1]
+WARNING:n_step:Episode 857 ended: steps=24, total_reward=43.50
+[Debug] Episode 857 raw_action counts: [1, 24, 0, 0, 0]
+WARNING:n_step:Episode 858 ended: steps=26, total_reward=47.50
+[Debug] Episode 858 raw_action counts: [0, 26, 0, 0, 1]
+WARNING:n_step:Episode 859 ended: steps=30, total_reward=55.50
+[Debug] Episode 859 raw_action counts: [0, 31, 0, 0, 0]
+[ai] Epoch 193: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 65.50
+[ai]   Episode 2 Reward: 43.50
+[ai]   Episode 3 Reward: 47.50
+[ai]   Episode 4 Reward: 55.50
+[ai] Epoch 193 Average Reward: 53.00       
+[ai]    Moving‐Average (last 500 eps): 40.25
+[ai] Checkpoint saved
+WARNING:n_step:Episode 860 ended: steps=12, total_reward=19.50
+[Debug] Episode 860 raw_action counts: [1, 12, 0, 0, 0]
+WARNING:n_step:Episode 861 ended: steps=30, total_reward=55.50
+[Debug] Episode 861 raw_action counts: [1, 29, 0, 1, 0]
+WARNING:n_step:Episode 862 ended: steps=30, total_reward=55.50
+[Debug] Episode 862 raw_action counts: [0, 30, 1, 0, 0]
+WARNING:n_step:Episode 863 ended: steps=23, total_reward=41.50
+[Debug] Episode 863 raw_action counts: [0, 23, 0, 1, 0]
+[ai] Epoch 194: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 19.50
+[ai]   Episode 2 Reward: 55.50
+[ai]   Episode 3 Reward: 55.50
+[ai]   Episode 4 Reward: 41.50
+[ai] Epoch 194 Average Reward: 43.00       
+[ai]    Moving‐Average (last 500 eps): 40.18
+[ai] Checkpoint saved
+WARNING:n_step:Episode 864 ended: steps=24, total_reward=43.50
+[Debug] Episode 864 raw_action counts: [1, 23, 0, 1, 0]
+WARNING:n_step:Episode 865 ended: steps=34, total_reward=63.50
+[Debug] Episode 865 raw_action counts: [0, 33, 1, 0, 1]
+WARNING:n_step:Episode 866 ended: steps=30, total_reward=55.50
+[Debug] Episode 866 raw_action counts: [0, 30, 0, 0, 1]
+WARNING:n_step:Episode 867 ended: steps=30, total_reward=55.50
+[Debug] Episode 867 raw_action counts: [1, 29, 0, 1, 0]
+[ai] Epoch 195: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 43.50
+[ai]   Episode 2 Reward: 63.50
+[ai]   Episode 3 Reward: 55.50
+[ai]   Episode 4 Reward: 55.50
+[ai] Epoch 195 Average Reward: 54.50       
+[ai]    Moving‐Average (last 500 eps): 40.31
+[ai] Checkpoint saved
+WARNING:n_step:Episode 868 ended: steps=6, total_reward=7.50
+[Debug] Episode 868 raw_action counts: [0, 7, 0, 0, 0]
+WARNING:n_step:Episode 869 ended: steps=30, total_reward=55.50
+[Debug] Episode 869 raw_action counts: [0, 29, 1, 1, 0]
+WARNING:n_step:Episode 870 ended: steps=25, total_reward=45.50
+[Debug] Episode 870 raw_action counts: [0, 26, 0, 0, 0]
+WARNING:n_step:Episode 871 ended: steps=40, total_reward=75.50
+[Debug] Episode 871 raw_action counts: [1, 37, 1, 2, 0]
+[ai] Epoch 196: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 7.50
+[ai]   Episode 2 Reward: 55.50
+[ai]   Episode 3 Reward: 45.50
+[ai]   Episode 4 Reward: 75.50
+[ai] Epoch 196 Average Reward: 46.00       
+[ai]    Moving‐Average (last 500 eps): 40.34
+[ai] Checkpoint saved
+WARNING:n_step:Episode 872 ended: steps=1, total_reward=-2.50
+[Debug] Episode 872 raw_action counts: [0, 2, 0, 0, 0]
+WARNING:n_step:Episode 873 ended: steps=27, total_reward=49.50
+[Debug] Episode 873 raw_action counts: [0, 27, 0, 0, 1]
+WARNING:n_step:Episode 874 ended: steps=26, total_reward=47.50
+[Debug] Episode 874 raw_action counts: [0, 25, 1, 0, 1]
+WARNING:n_step:Episode 875 ended: steps=26, total_reward=47.50
+[Debug] Episode 875 raw_action counts: [0, 25, 0, 2, 0]
+WARNING:n_step:Episode 876 ended: steps=24, total_reward=43.50
+[Debug] Episode 876 raw_action counts: [0, 25, 0, 0, 0]
+[ai] Epoch 197: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: -2.50
+[ai]   Episode 2 Reward: 49.50
+[ai]   Episode 3 Reward: 47.50
+[ai]   Episode 4 Reward: 47.50
+[ai]   Episode 5 Reward: 43.50
+[ai] Epoch 197 Average Reward: 37.10       
+[ai]    Moving‐Average (last 500 eps): 40.23
+[ai] Checkpoint saved
+WARNING:n_step:Episode 877 ended: steps=1, total_reward=-2.50
+[Debug] Episode 877 raw_action counts: [0, 2, 0, 0, 0]
+WARNING:n_step:Episode 878 ended: steps=25, total_reward=45.50
+[Debug] Episode 878 raw_action counts: [1, 25, 0, 0, 0]
+WARNING:n_step:Episode 879 ended: steps=27, total_reward=49.50
+[Debug] Episode 879 raw_action counts: [0, 27, 0, 0, 1]
+WARNING:n_step:Episode 880 ended: steps=26, total_reward=47.50
+[Debug] Episode 880 raw_action counts: [1, 25, 1, 0, 0]
+WARNING:n_step:Episode 881 ended: steps=36, total_reward=67.50
+[Debug] Episode 881 raw_action counts: [0, 35, 1, 1, 0]
+[ai] Epoch 198: 5 episodes ended this epoch
+[ai]   Episode 1 Reward: -2.50
+[ai]   Episode 2 Reward: 45.50
+[ai]   Episode 3 Reward: 49.50
+[ai]   Episode 4 Reward: 47.50
+[ai]   Episode 5 Reward: 67.50
+[ai] Epoch 198 Average Reward: 41.50       
+[ai]    Moving‐Average (last 500 eps): 40.22
+[ai] Checkpoint saved
+WARNING:n_step:Episode 882 ended: steps=5, total_reward=5.50
+[Debug] Episode 882 raw_action counts: [0, 5, 1, 0, 0]
+WARNING:n_step:Episode 883 ended: steps=30, total_reward=55.50
+[Debug] Episode 883 raw_action counts: [0, 31, 0, 0, 0]
+WARNING:n_step:Episode 884 ended: steps=26, total_reward=47.50
+[Debug] Episode 884 raw_action counts: [0, 26, 0, 1, 0]
+WARNING:n_step:Episode 885 ended: steps=39, total_reward=73.50
+[Debug] Episode 885 raw_action counts: [1, 36, 0, 1, 2]
+[ai] Epoch 199: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 5.50
+[ai]   Episode 2 Reward: 55.50
+[ai]   Episode 3 Reward: 47.50
+[ai]   Episode 4 Reward: 73.50
+[ai] Epoch 199 Average Reward: 45.50       
+[ai]    Moving‐Average (last 500 eps): 40.24
+[ai] Checkpoint saved
+WARNING:n_step:Episode 886 ended: steps=22, total_reward=39.50
+[Debug] Episode 886 raw_action counts: [1, 20, 0, 0, 2]
+WARNING:n_step:Episode 887 ended: steps=28, total_reward=51.50
+[Debug] Episode 887 raw_action counts: [0, 29, 0, 0, 0]
+WARNING:n_step:Episode 888 ended: steps=30, total_reward=55.50
+[Debug] Episode 888 raw_action counts: [0, 29, 1, 1, 0]
+WARNING:n_step:Episode 889 ended: steps=30, total_reward=55.50
+[Debug] Episode 889 raw_action counts: [0, 31, 0, 0, 0]
+[ai] Epoch 200: 4 episodes ended this epoch
+[ai]   Episode 1 Reward: 39.50
+[ai]   Episode 2 Reward: 51.50
+[ai]   Episode 3 Reward: 55.50
+[ai]   Episode 4 Reward: 55.50
+[ai] Epoch 200 Average Reward: 50.50       
+[ai]    Moving‐Average (last 500 eps): 40.26
+[ai] Checkpoint saved
+[ai] Training loop has completed.
